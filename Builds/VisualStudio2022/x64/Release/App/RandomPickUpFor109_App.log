@@ -1,0 +1,219 @@
+﻿  All.cpp
+  Buttons.cpp
+  Main.cpp
+  MainComponent.cpp
+  MainMenu.cpp
+  Select.cpp
+  Table.cpp
+  BinaryData.cpp
+  BinaryData2.cpp
+  include_juce_core.cpp
+  include_juce_data_structures.cpp
+  include_juce_events.cpp
+  include_juce_graphics.cpp
+  include_juce_gui_extra.cpp
+E:\Project\RandomPickUpFor109\Source\MainMenu.cpp(37,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\MainMenu.cpp(40,200): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\MainMenu.cpp(40,200): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\MainMenu.cpp(40,200): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\MainMenu.cpp(40,200): warning C4244:             ValueType=float
+E:\Project\RandomPickUpFor109\Source\MainMenu.cpp(40,200): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\MainMenu.cpp(40,181): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\MainMenu.cpp(40,181): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\MainMenu.cpp(40,181): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\MainMenu.cpp(40,181): warning C4244:             ValueType=float
+E:\Project\RandomPickUpFor109\Source\MainMenu.cpp(40,181): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\Select.cpp(37,99): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Select.cpp(37,99): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\Select.cpp(37,99): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\Select.cpp(37,99): warning C4244:             ValueType=float
+E:\Project\RandomPickUpFor109\Source\Select.cpp(37,99): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\Select.cpp(37,79): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Select.cpp(37,79): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\Select.cpp(37,79): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\Select.cpp(37,79): warning C4244:             ValueType=float
+E:\Project\RandomPickUpFor109\Source\Select.cpp(37,79): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\Select.cpp(37,57): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Select.cpp(37,57): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\Select.cpp(37,57): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\Select.cpp(37,57): warning C4244:             ValueType=float
+E:\Project\RandomPickUpFor109\Source\Select.cpp(37,57): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\Select.cpp(39,26): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Select.cpp(41,217): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Select.cpp(41,217): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\Select.cpp(41,217): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\Select.cpp(41,217): warning C4244:             ValueType=float
+E:\Project\RandomPickUpFor109\Source\Select.cpp(41,217): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\Select.cpp(41,197): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Select.cpp(41,197): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\Select.cpp(41,197): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\Select.cpp(41,197): warning C4244:             ValueType=float
+E:\Project\RandomPickUpFor109\Source\Select.cpp(41,197): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\Select.cpp(41,175): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Select.cpp(41,175): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\Select.cpp(41,175): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\Select.cpp(41,175): warning C4244:             ValueType=float
+E:\Project\RandomPickUpFor109\Source\Select.cpp(41,175): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\All.cpp(37,99): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\All.cpp(37,99): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\All.cpp(37,99): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\All.cpp(37,99): warning C4244:             ValueType=float
+E:\Project\RandomPickUpFor109\Source\All.cpp(37,99): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\All.cpp(37,79): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\All.cpp(37,79): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\All.cpp(37,79): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\All.cpp(37,79): warning C4244:             ValueType=float
+E:\Project\RandomPickUpFor109\Source\All.cpp(37,79): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\All.cpp(37,57): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\All.cpp(37,57): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\All.cpp(37,57): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\All.cpp(37,57): warning C4244:             ValueType=float
+E:\Project\RandomPickUpFor109\Source\All.cpp(37,57): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\All.cpp(40,26): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Buttons.h(65,121): warning C4305: “参数”: 从“juce::DocumentWindow::TitleBarButtons”到“bool”截断
+  (编译源文件“../../Source/Buttons.cpp”)
+  
+E:\Project\RandomPickUpFor109\Source\Buttons.h(65,121): warning C4305: “参数”: 从“juce::DocumentWindow::TitleBarButtons”到“bool”截断
+  (编译源文件“../../Source/Main.cpp”)
+  
+E:\Project\RandomPickUpFor109\Source\Buttons.h(65,121): warning C4305: “参数”: 从“juce::DocumentWindow::TitleBarButtons”到“bool”截断
+  (编译源文件“../../Source/MainComponent.cpp”)
+  
+E:\Project\RandomPickUpFor109\Source\All.cpp(41,217): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\All.cpp(41,217): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\All.cpp(41,217): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\All.cpp(41,217): warning C4244:             ValueType=float
+E:\Project\RandomPickUpFor109\Source\All.cpp(41,217): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\All.cpp(41,197): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\All.cpp(41,197): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\All.cpp(41,197): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\All.cpp(41,197): warning C4244:             ValueType=float
+E:\Project\RandomPickUpFor109\Source\All.cpp(41,197): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\All.cpp(41,175): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\All.cpp(41,175): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\All.cpp(41,175): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\All.cpp(41,175): warning C4244:             ValueType=float
+E:\Project\RandomPickUpFor109\Source\All.cpp(41,175): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(36,71): warning C4244: “参数”: 从“int”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(36,71): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(36,71): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(36,71): warning C4244:             ValueType=float
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(36,71): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(36,58): warning C4244: “参数”: 从“int”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(36,58): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(36,58): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(36,58): warning C4244:             ValueType=float
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(36,58): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(37,103): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(37,103): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(37,103): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(37,103): warning C4244:             ValueType=int
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(37,103): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(37,65): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(37,65): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(37,65): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(37,65): warning C4244:             ValueType=int
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(37,65): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(38,106): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(38,106): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(38,106): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(38,106): warning C4244:             ValueType=int
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(38,106): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(38,68): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(38,68): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(38,68): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(38,68): warning C4244:             ValueType=int
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(38,68): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(39,96): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(39,96): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(39,96): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(39,96): warning C4244:             ValueType=int
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(39,96): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(39,59): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(39,59): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(39,59): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(39,59): warning C4244:             ValueType=int
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(39,59): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\Buttons.cpp(84,19): warning C4457: “button”的声明隐藏了函数参数
+  E:\Project\RandomPickUpFor109\Source\Buttons.cpp(80,43):
+  参见“button”的声明
+  
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(44,54): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Main.cpp(26,42): warning C4100: “commandLine”: 未引用的形参
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(47,69): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Buttons.cpp(97,19): warning C4457: “button”的声明隐藏了函数参数
+  E:\Project\RandomPickUpFor109\Source\Buttons.cpp(80,43):
+  参见“button”的声明
+  
+E:\Project\RandomPickUpFor109\Source\MainComponent.cpp(47,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Buttons.cpp(107,19): warning C4457: “button”的声明隐藏了函数参数
+  E:\Project\RandomPickUpFor109\Source\Buttons.cpp(80,43):
+  参见“button”的声明
+  
+E:\Project\RandomPickUpFor109\Source\Main.cpp(49,54): warning C4100: “commandLine”: 未引用的形参
+E:\Project\RandomPickUpFor109\Source\Buttons.cpp(117,19): warning C4457: “button”的声明隐藏了函数参数
+  E:\Project\RandomPickUpFor109\Source\Buttons.cpp(80,43):
+  参见“button”的声明
+  
+E:\Project\RandomPickUpFor109\Source\Buttons.cpp(134,73): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Buttons.cpp(138,38): warning C4100: “g”: 未引用的形参
+E:\Project\RandomPickUpFor109\Source\Buttons.cpp(147,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Buttons.cpp(147,55): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Buttons.cpp(147,76): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Buttons.cpp(148,88): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Buttons.cpp(148,88): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\Buttons.cpp(148,88): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\Buttons.cpp(148,88): warning C4244:             ValueType=int
+E:\Project\RandomPickUpFor109\Source\Buttons.cpp(148,88): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\Buttons.cpp(148,53): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Buttons.cpp(148,53): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\Buttons.cpp(148,53): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\Buttons.cpp(148,53): warning C4244:             ValueType=int
+E:\Project\RandomPickUpFor109\Source\Buttons.cpp(148,53): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\Buttons.cpp(158,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Buttons.cpp(158,44): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Table.cpp(58,37): warning C4244: “参数”: 从“int”转换到“uint16_t”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Table.cpp(105,29): warning C4244: “参数”: 从“int”转换到“uint16_t”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Table.cpp(123,56): warning C4244: “参数”: 从“double”转换到“ValueType”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Table.cpp(123,56): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\Table.cpp(123,56): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\Table.cpp(123,56): warning C4244:             ValueType=int
+E:\Project\RandomPickUpFor109\Source\Table.cpp(123,56): warning C4244:         ]
+E:\Project\RandomPickUpFor109\Source\Table.cpp(124,64): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Table.cpp(125,64): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Table.cpp(126,64): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Table.cpp(127,64): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Table.cpp(128,64): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Table.cpp(129,64): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Table.cpp(134,27): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Table.cpp(185,44): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\Table.cpp(186,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\JUCE\modules\juce_core\text\juce_CharacterFunctions.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../JuceLibraryCode/include_juce_core.cpp”)
+  
+E:\Project\RandomPickUpFor109\Source\OpenXLSX.Library\include\OpenXLSX\headers\XLCellValue.hpp(245,70): warning C4244: “return”: 从“double”转换到“T”，可能丢失数据
+E:\Project\RandomPickUpFor109\Source\OpenXLSX.Library\include\OpenXLSX\headers\XLCellValue.hpp(245,70): warning C4244:         with
+E:\Project\RandomPickUpFor109\Source\OpenXLSX.Library\include\OpenXLSX\headers\XLCellValue.hpp(245,70): warning C4244:         [
+E:\Project\RandomPickUpFor109\Source\OpenXLSX.Library\include\OpenXLSX\headers\XLCellValue.hpp(245,70): warning C4244:             T=float
+E:\Project\RandomPickUpFor109\Source\OpenXLSX.Library\include\OpenXLSX\headers\XLCellValue.hpp(245,70): warning C4244:         ]
+  (编译源文件“../../Source/Table.cpp”)
+  E:\Project\RandomPickUpFor109\Source\OpenXLSX.Library\include\OpenXLSX\headers\XLCellValue.hpp(245,70):
+  模板实例化上下文(最早的实例化上下文)为
+  	E:\Project\RandomPickUpFor109\Source\Table.cpp(74,107):
+  	查看对正在编译的函数 模板 实例化“OpenXLSX::XLCellValue::operator T(void) const<float,0x0>”的引用
+          with
+          [
+              T=float
+          ]
+  	E:\Project\RandomPickUpFor109\Source\OpenXLSX.Library\include\OpenXLSX\headers\XLCellValue.hpp(275,24):
+  	查看对正在编译的函数 模板 实例化“T OpenXLSX::XLCellValue::get<T,0x0>(void) const”的引用
+          with
+          [
+              T=float
+          ]
+  
+  include_juce_gui_basics.cpp
+  正在生成代码
+E:\Project\RandomPickUpFor109\Source\Table.h(69): warning C4715: “Table::Data::operator[]”: 不是所有的控件路径都返回值
+  已完成代码的生成
+  RandomPickUpFor109_App.vcxproj -> E:\Project\RandomPickUpFor109\Builds\VisualStudio2022\x64\Release\App\RandomPickUpFor109.exe
